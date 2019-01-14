@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Turn your project into an open source community
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Technical Resume Builder
 
 ## Getting started
 
