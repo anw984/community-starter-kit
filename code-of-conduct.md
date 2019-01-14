@@ -23,8 +23,8 @@ We recommend that you add the Markdown or text version of the Contributor Covena
 Thanks to Simon Vansintjan there is an automated way to add Contributor Covenant to your project. Assuming that you have Node.js installed, simply run the following two commands from your project folder:
 
 npm install -g covgen
-covgen <your_email_address>
-If you have npm 5.x installed you can run npx covgen <your_email_address> instead of installing globally.
+covgen <andrew-walker@utulsa.edu>
+If you have npm 5.x installed you can run npx covgen <andrew-walker@utulsa.edu> instead of installing globally.
 
 For subsequent projects, simply repeat the second command.
 
@@ -116,5 +116,3 @@ The Contributor Covenant is a living document, and has been open sourced. Contri
 
 The Contributor Covenant was created by Coraline Ada Ehmke in 2014 and is released under the CC BY 4.0 License.
 Support this and other diversity initiatives through our Patreon.
-
-Andrew-Walker@utulsa.edu
